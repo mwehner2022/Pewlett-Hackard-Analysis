@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 # **Purpose**
-The purpose of this assignment was to help Hewlett Packard prepare for the “Silver Tsunami” as many of their current employees are reaching retirement age. Using the cvs data files provided by Hewlett Packard, I analyzed the files in PGAdmin creating tables to discover and display the needed information then saved it to a readable format.
+The purpose of this assignment was to help Hewlett Packard prepare for the “Silver Tsunami” as many of their current employees are reaching retirement age. Using the CSV data files provided by Hewlett Packard, the files were analyized in PGAdmin. Tables were created to discover and display the needed information then saved to a readable format.
 
 ## **Goal**
 - Retrieve the number of retiring employees by title
